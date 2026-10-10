@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# Shell/Editor
+*.swp
+*.swo
+*.tmp
